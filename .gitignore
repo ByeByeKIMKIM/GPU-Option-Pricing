@@ -1,1 +1,6 @@
-Notes/
+# Ignore LaTeX build artifacts in the Notes folder
+Notes/*.aux
+Notes/*.log
+Notes/*.synctex.gz
+Notes/_minted*/
+Notes/*.pdf
