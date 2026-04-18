@@ -4,3 +4,5 @@ Notes/*.log
 Notes/*.synctex.gz
 Notes/_minted*/
 Notes/*.pdf
+
+GPU_Option_Pricing_Engine_Project.ipynb
